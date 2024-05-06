@@ -32,12 +32,12 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliaukdot&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcsurge&show_icons=true&theme=vue)
 
 <img src="https://imgur.com/rilHVxA.png"/>
 
 <!--
-**eliaukdot/eliaukdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arcsurge/arcsurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
