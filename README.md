@@ -17,10 +17,10 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
-<strong>Welcome to my GitHub profile.</strong>
+<strong>Welcome To My GitHub Profile.</strong>
 </pre>
 
-![](https://raw.githubusercontent.com/eliaukdot/eliaukdot/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake.svg)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
