@@ -33,18 +33,20 @@
 </div>
 
 <br/>
-
-<div style="display: flex;align-items: center;">
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-  <ul>
-    <li>🌱 I’m currently learning Python,Shell and Java.</li>
-    <li>🤔 I’m looking for help with Design Pattern 😭.</li>
-    <li>💬 Ask me about anything, I am happy to help.</li>
-  </ul>
-
-</div>
-<br/><br/>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently learning Python,Shell and Java.</li>
+        <li>🤔 I’m looking for help with Design Pattern 😭.</li>
+        <li>💬 Ask me about anything, I am happy to help.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
