@@ -34,9 +34,9 @@
 
 <br/>
 
-<div>
+<div style="display: flex;align-items: center;">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  <br/><br/>
+
   <ul>
     <li>🌱 I’m currently learning Python,Shell and Java.</li>
     <li>🤔 I’m looking for help with Design Pattern 😭.</li>
