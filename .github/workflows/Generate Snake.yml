@@ -12,13 +12,15 @@ on:
     branches:
     - main
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@master
+        uses: Platane/snk/svg-only@3
         id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
