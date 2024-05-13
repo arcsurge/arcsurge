@@ -32,14 +32,18 @@
 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br/>
 
-<br/><br/>
+<div>
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  <br/><br/>
+  <ul>
+    <li>🌱 I’m currently learning Python,Shell and Java.</li>
+    <li>🤔 I’m looking for help with Design Pattern 😭.</li>
+    <li>💬 Ask me about anything, I am happy to help.</li>
+  </ul>
 
-- 🌱 I’m currently learning Python,Shell and Java.
-- 🤔 I’m looking for help with Design Pattern 😭.
-- 💬 Ask me about anything, I am happy to help.
-
+</div>
 <br/><br/>
 
 <div align="center">
