@@ -1,6 +1,25 @@
-### Hi there 👋
+<div align="center">
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  </div>
+  <br/>
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&vCenter=true&size=26&pause=1000&random=false&width=435&lines=console.log(%22Hello%2C+World!%22)" alt="Typing SVG" />
+    </a>
+  </div>
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<pre>
+# 👋 Hello, folks!
+
+<pre align="center" style="background-color: transparent">
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -16,15 +35,9 @@
 <strong>Welcome To My GitHub Profile.</strong>
 </pre>
 
-<div align="center">
+# ✨ GitHub Stats
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arcsurge/arcsurge/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br/><br/>
+<div align="center">
 
   <!-- GitHub 数据统计 -->
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=arcsurge&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=transparent" />
@@ -32,7 +45,8 @@
 
 </div>
 
-<br/>
+# ✍️ Blog & Writing
+
 <table>
   <tr>
     <td>
